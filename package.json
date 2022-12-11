@@ -2,7 +2,7 @@
   "dependencies": {
     "cheerio": "0.22.0",
     "cors": "2.8.5",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "html-docx-js": "^0.3.1"
   }
 }
